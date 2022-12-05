@@ -1,0 +1,28 @@
+﻿.container {
+    background-color: #FFAD03;
+    margin: auto;
+    font-family: Poppins;
+}
+
+.navbar-header {
+    background-color: #FFAD03;
+}
+
+.navbar-brand {
+    background-color: #E14823;
+}
+  
+.Content{
+    text-decoration-color: white
+}
+
+.navbar-collapse collapse{
+    color: white;
+}
+
+.h1{
+    color:white;
+    text-align: center;
+}
+
+

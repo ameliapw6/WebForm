@@ -1,0 +1,41 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+}
+
+.section {
+    width: 100vw;
+    height: 100vh;
+    background-color: #FFAD03;
+    display: flex;
+}
+
+.form h2{
+    font-family: Poppins;
+    color: white;
+    padding-left:7vw;
+}
+
+.form input[type=Textbox1]{
+    height:30px;
+    border:1;
+    margin-top: 2.5vh;
+    margin-left: 4vw;
+    border-radius: 20px;
+}
+
+.form input[type=Password1] {
+    height: 30px;
+    border: 1;
+    margin-top: 2.5vh;
+    margin-left: 4vw;
+    border-radius: 20px;
+}
+
+.form input[type=Login] {
+    height: 30px;
+    border: 1;
+    margin-top: 2.5vh;
+    margin-left: 4vw;
+    border-radius: 20px;
